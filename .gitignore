@@ -14,3 +14,11 @@ frontend/out/
 frontend/.env
 frontend/.env.local
 .DS_Store
+
+# LangGraph API local checkpoints/state
+.langgraph_api/
+
+# LangGraph local dev cache
+.langgraph_api/
+.langgraph_runtime/
+.langgraph/
